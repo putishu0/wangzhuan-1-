@@ -128,7 +128,7 @@ header {
   height: 100%;
   font-size: 0.48rem;
   font-weight: 600; }
-  .copy input {
+  .copy p {
     width: 2.4rem;
     height: 0.66667rem;
     background: #d9126c;
@@ -136,7 +136,8 @@ header {
     font-size: 0.42667rem;
     font-weight: 0;
     border: none;
-    outline: none; }
+    outline: none;
+    text-align: center; }
 
 ol {
   width: 100%;
